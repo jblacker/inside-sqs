@@ -1,6 +1,6 @@
 # inside-sqs
-##A GUI management console for mocks of AWS's SQS and ElasticMQ
-
+A GUI management console for mocks of AWS's SQS and ElasticMQ
+-----------------------
 This application serves as a graphical management console for [ElasticMQ](https://github.com/softwaremill/elasticmq) to assist with configuration and verification within a testing enviornment.
 
 _NOTE_: This project is in an extremely early state.  It currently serves two purposes: 
